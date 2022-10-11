@@ -1,1 +1,1 @@
-# sce-training
+# The Domino SCE Introduction Training
