@@ -30,7 +30,7 @@
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part2/8.png)
 
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part2/9.png)
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part2/9_1.png)
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part2/10.png)
 
