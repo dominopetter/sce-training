@@ -16,6 +16,19 @@
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/7.png)
 
+```sas
+* Simple example of a Data Management Program - SDTM;
+ 
+libname RAW "THIS IS WHERE YOUR RAW PATH GOES" access=readonly;
+libname  SDTM "THIS IS WHERE YOUR SDTM PATH GOES";
+ 
+data sdtm.dm (keep=usubjid age ageu);
+  set raw.demog;
+  usubjid = pt;
+  ageu = "YEARS";
+run;
+```
+
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/8.png)
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/9.png)
