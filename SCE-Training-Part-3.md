@@ -61,6 +61,7 @@ run;
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/23.png)
 
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/24.png)-->
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/24.png)
 
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/25.png)
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/25.png)-->
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/26.png)
