@@ -36,6 +36,22 @@
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part4/7%202.png)
 
+```sas
+* A simple SDTMQC program;
+ 
+libname RAW "THIS IS WHERE YOUR RAW PATH GOES" access=readonly;
+libname SDTM "THIS IS WHERE YOUR SDTM PATH GOES" access=readonly;
+libname SDTMQC "THIS IS WHERE YOUR SDTMQC PATH GOES";
+ 
+* Create a QC Dataset;
+data sdtmqc.dm;
+  set raw.demog;
+run;
+ 
+proc compare base=SDTMQC.DM compare=SDTM.DM;
+run;
+```
+
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part4/17.png)
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part4/18.png)
