@@ -14,3 +14,4 @@
   
 [SCE Training Part 7]([https://www.google.com](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part-7.md))  
   
+[I'm an inline-style link](https://www.google.com)
