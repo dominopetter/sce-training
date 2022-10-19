@@ -2,6 +2,8 @@
 ### We assume you have done Part 1, 2, 3, 4, 5, and 6
 ### Good Luck!
 ##
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/intro/7.png)
+
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/1.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/2.png)
