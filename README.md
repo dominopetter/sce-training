@@ -1,6 +1,6 @@
 # The Domino SCE Introduction Training
   
-[SCE Training Part 1](sce-training/blob/main/SCE-Training-Part-1.md)
+[SCE Training Part 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part-1.md)
   
 [SCE Training Part 2](sce-training/blob/main/SCE-Training-Part-2.md)
   
