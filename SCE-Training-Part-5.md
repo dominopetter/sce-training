@@ -17,6 +17,8 @@
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part5/6.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part5/7.png)
+
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part5/7.1.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part5/8.png)
  
