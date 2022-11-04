@@ -16,7 +16,7 @@
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.png)
 
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/7.png)
+
 
 ```Python
 # IMPORT THE DOMINO LIBRARY
