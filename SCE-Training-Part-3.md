@@ -12,6 +12,8 @@
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/4.png)
 
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/ws-launch-time.png)
+
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/5.png)
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part3/6.png)
