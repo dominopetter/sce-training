@@ -20,8 +20,6 @@
 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.1.png)
 
-
-
 ```Python
 # IMPORT THE DOMINO LIBRARY
 from domino import Domino
@@ -48,16 +46,16 @@ ENVIRONMENT = "6358f34ccd164750e6b8f0fd"
 
 # TO SEE ALL OPTIONS EXECUTE Domino.job_start? IN A CELL
 ```
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.2.png)
+
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.3.png)
+
 ```python
 # I have added sleep so we can go to the Projects Job Section and see it appear. Once you execute this navigate to the QC project and Jobs.
 import time
 time.sleep(30)
 domino.job_start(MY_SCRIPT, hardware_tier_id=HARDWARE, environment_id=ENVIRONMENT)
 ```
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/8.png)
- 
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/9.png)
- 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/10.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/11.png)
