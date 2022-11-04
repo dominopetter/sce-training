@@ -17,6 +17,11 @@
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part6/5.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part6/6.png)
+
+```docker
+### This is an entry made during training
+RUN echo "Your training is almost complete young Padawan"
+```
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part6/7.png)
  
