@@ -23,8 +23,8 @@
 from domino import Domino
 
 # INSTANTIATE PROJECT - TOWARDS WHAT PROJECT ARE WE EXECUTING
-# Here will will use the QC project. My PATH looks like "petter-not-admin/Domino-Training-101-QC"
-domino = Domino("petter-not-admin/Domino-Training-101-QC")
+# Here will will use the QC project. My PATH looks like "petter-not-admin/Domino-Training-101-QC" which you can see in the URL.
+domino = Domino("COPY-AND-PASTE-YOUR-PATH-HERE")
 
 #################################
 # CONFIGURE EXECUTION VARIABLES #
@@ -40,7 +40,7 @@ HARDWARE = "small-k8s"
 
 # environment_id
 # Here we specify the ID of the Environment. By default it will use the default of the project.
-ENVIRONMENT = "6345643212c08638181a14c8"
+ENVIRONMENT = "6358f34ccd164750e6b8f0fd"
 
 # TO SEE ALL OPTIONS EXECUTE Domino.job_start? IN A CELL
 ```
