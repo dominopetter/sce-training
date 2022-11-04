@@ -16,6 +16,8 @@
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.png)
 
+![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/7.png)
+
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/6.1.png)
 
 
@@ -52,8 +54,6 @@ import time
 time.sleep(30)
 domino.job_start(MY_SCRIPT, hardware_tier_id=HARDWARE, environment_id=ENVIRONMENT)
 ```
-![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/7.png)
- 
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/8.png)
  
 ![Picture 1](https://github.com/dominopetter/sce-training/blob/main/SCE-Training-Part7/9.png)
